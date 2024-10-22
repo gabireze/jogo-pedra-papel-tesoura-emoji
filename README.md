@@ -28,10 +28,6 @@ Este projeto é uma implementação divertida e animada do clássico jogo "Pedra
 
 5. Você pode **pausar**, **continuar** ou **reiniciar** o jogo a qualquer momento.
 
-## Suporte a Dispositivos Móveis 📱
-
-Na versão mobile, a interface de seleção de quantidade de emojis é organizada em uma única coluna, facilitando a interação em telas pequenas.
-
 ## Tecnologias Utilizadas 💻
 
 - **HTML5**: Estrutura do jogo.

@@ -41,3 +41,5 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encon
 ---
 
 **Divirta-se jogando e compartilhe com os amigos!** 🎉
+
+<!-- GitAds-Verify: U59XYLZXJNS97R33HX2YZSH3PC7IZ6GQ -->

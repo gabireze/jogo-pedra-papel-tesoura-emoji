@@ -2,6 +2,9 @@
 
 Este projeto é uma implementação divertida e animada do clássico jogo "Pedra, Papel, Tesoura" usando emojis! Os jogadores podem selecionar a quantidade de pedras, papéis e tesouras e assistir à interação entre eles na tela. O jogo possui colisões em tempo real, lógica de transformação e opções para pausar, continuar e reiniciar.
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=gabireze/jogo-pedra-papel-tesoura-emoji@github)](https://gitads.dev/v1/ad-track?source=gabireze/jogo-pedra-papel-tesoura-emoji@github)
+
 ## Funcionalidades 🚀
 
 - 🎲 Jogadores podem personalizar a quantidade de pedras (🪨), papéis (📄) e tesouras (✂️).
